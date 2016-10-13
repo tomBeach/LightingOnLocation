@@ -355,7 +355,7 @@ a:hover, a:active, a.thisPage {
 #message-box {
     position: absolute;
     top: 20%;
-    left: 50%;
+    left: 25%;
     width: 360px;
     height: auto;
     padding-bottom: 8px;
