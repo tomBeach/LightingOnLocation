@@ -14,7 +14,7 @@ body {
 #mainNav  { position: absolute; left:10px; top:60px; width:720px; height:80px; }
 #panelNav { position: absolute; left:990px; top:140px; width:280px; height:60px; }
 #canvasL  { position: absolute; left:10px; top:210px; width:720px; height:405px; }
-#canvasM  { position: absolute; left:740px; top:60px; width:240px; height:135px; }
+#canvasM  { position: absolute; left:700px; top:30px; width:384px; height:216px; }
 #tooltips { position: absolute; left:990px; top:220px; width:280px; height:80px; }
 #titleText { z-index:4; position: absolute; left:990px; top:50px; width:280px; }
 #instrText { z-index:4; position: absolute; left:990px; top:300px; width:280px; }
